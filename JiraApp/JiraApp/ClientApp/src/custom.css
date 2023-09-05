@@ -1,0 +1,22 @@
+/* Provide sufficient contrast against white background */
+a {
+  color: #0366d6;
+}
+
+code {
+  color: #E01A76;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+/* Add styles for the task list page here */
+.task-list-page {
+    margin: 50px; /* Add some margin around the container */
+}
+
+.horizontal-space {
+    margin: 50px 0; /* Add margin to create horizontal space */
+}

@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "http://localhost:44466",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "C:\\root\\personal\\prep\\SDE\\fullstack2\\JiraApp\\JiraApp\\ClientApp\\",
+"MaxTimeoutInSeconds": "120"
+}
+}

@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "hiPwfNCzJqWZnEo98z7MhsStJKgp1+7mnopMF3tNl8ilQe5Kbxy0PSok6hPzE0BtJWG5bnurP11UhVPtaujFzg==",
+  "success": true,
+  "projectFilePath": "C:\\root\\personal\\prep\\SDE\\fullstack2\\JiraApp\\JiraAppTests\\JiraAppTests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GS-1788\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
+    "C:\\Users\\GS-1788\\.nuget\\packages\\microsoft.aspnetcore.spaproxy\\6.0.8\\microsoft.aspnetcore.spaproxy.6.0.8.nupkg.sha512",
+    "C:\\Users\\GS-1788\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\GS-1788\\.nuget\\packages\\moq\\4.20.69\\moq.4.20.69.nupkg.sha512",
+    "C:\\Users\\GS-1788\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\GS-1788\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
+    "C:\\Users\\GS-1788\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
